@@ -169,8 +169,11 @@ hr{
         width:100%;
         min-width:unset;
     }
-    .icap{
-        flex-direction:column;
-        align-items:center;
+    .icap a{
+        width:auto;
+        display:block;
+    }
+    #project3{
+        height:400px;
     }
 }
