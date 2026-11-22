@@ -76,6 +76,7 @@ h2, a, strong{
     width:60%;
     max-width:500px;
     height:auto;
+    overflow:auto;
     border:1px solid rgba(0, 255, 200, 0.6);
     padding:10px;
     border-radius:10px;
@@ -173,9 +174,5 @@ hr{
         width:auto;
         display:block;
     }
-    #project3{
-       height:auto;
-       max-height:90vh;
-       overflow-y:auto;
-}
+    
 }
